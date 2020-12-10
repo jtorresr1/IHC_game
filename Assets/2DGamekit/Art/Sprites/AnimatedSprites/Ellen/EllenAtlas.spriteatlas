@@ -246,6 +246,16 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 7d37e1dfeba60ea4a8803c12675079b6, type: 3}
   - {fileID: 21300000, guid: 3b3834ff0aab3d849bca2adc0c0d5f84, type: 3}
   - {fileID: 21300000, guid: b5a42cffd70ab6441a230c8e772f3c56, type: 3}
+  - {fileID: 21300000, guid: 00c1c9894d7705b4abd00840930a7586, type: 3}
+  - {fileID: 21300000, guid: 447222bc1a407b54d8e924e7daa1061b, type: 3}
+  - {fileID: 21300000, guid: d5833c4af56a3f44c986d0c367ceaa2e, type: 3}
+  - {fileID: 21300000, guid: cafcad0f85bc2674aa4f851d7204fe31, type: 3}
+  - {fileID: 21300000, guid: add44a32e1f38334a92b59fcd88b83af, type: 3}
+  - {fileID: 21300000, guid: db1a23431b4db7e4a9b24866a5a17774, type: 3}
+  - {fileID: 21300000, guid: 19d020f6023c43e46b74b5d27eed1a6a, type: 3}
+  - {fileID: 21300000, guid: 00c1c9894d7705b4abd00840930a7586, type: 3}
+  - {fileID: 21300000, guid: cf5ce7f5dc98a1143a500537872a2d17, type: 3}
+  - {fileID: 21300000, guid: 988c21ce33efc93479288819a049389f, type: 3}
   m_PackedSpriteNamesToIndex:
   - Anim_JUMP_02
   - Anim_IDLE_WITHGUN_00017
