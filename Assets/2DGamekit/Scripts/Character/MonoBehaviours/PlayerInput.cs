@@ -14,7 +14,7 @@ namespace Gamekit2D
     
         public bool HaveControl { get { return m_HaveControl; } }
 
-        public InputButton Pause = new InputButton(KeyCode.Escape, XboxControllerButtons.Menu);
+        public InputButton Pause = new InputButton(KeyCode.I, XboxControllerButtons.Menu);
         public InputButton Interact = new InputButton(KeyCode.E, XboxControllerButtons.Y);
         public InputButton MeleeAttack = new InputButton(KeyCode.K, XboxControllerButtons.X);
         public InputButton RangedAttack = new InputButton(KeyCode.O, XboxControllerButtons.B);
