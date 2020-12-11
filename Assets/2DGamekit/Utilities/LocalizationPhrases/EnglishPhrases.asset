@@ -20,3 +20,7 @@ MonoBehaviour:
     value: '"Usa S y espacio para descender"'
   - key: INFOPOST3
     value: '"Usa K para atacar cuerpo a cuerpo"'
+  - key: INFOPOST4
+    value: Ca Calcio +1
+  - key: INFOPOST5
+    value: NA Sodio +1
