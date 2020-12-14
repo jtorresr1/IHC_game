@@ -22,11 +22,15 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     value: '"Usa K para atacar cuerpo a cuerpo"'
   - key: INFOPOST4
     value: Ca Calcio +1
   - key: INFOPOST5
     value: NA Sodio +1
+=======
+    value: '"Usa K para atacar cuerpo a cuerpo y O para atacar a distancia"'
+>>>>>>> Stashed changes
 =======
     value: '"Usa K para atacar cuerpo a cuerpo y O para atacar a distancia"'
 >>>>>>> Stashed changes
