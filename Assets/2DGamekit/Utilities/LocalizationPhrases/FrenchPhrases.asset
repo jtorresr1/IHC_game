@@ -15,11 +15,12 @@ MonoBehaviour:
   language: French
   phrases:
   - key: INFOPOST1
-    value: '[Jumping]'
+    value: '"Para saltar pulsa espacio"'
   - key: INFOPOST2
-    value: '[Jumping down]'
+    value: '"Para descender pulsa S y espacio"'
   - key: INFOPOST3
-    value: '[Jumping down]'
+    value: '"Para atacar cuerpo a acuerpo pulsa K y para atacar a distancia pulsa
+      O"'
   - key: INFOPOST3
-    value: '[Jumping down]'
-  originalPhrases: {fileID: 11400000, guid: 9cc6d1d2be2e5d446a3ab8b4f207bb66, type: 2}
+    value: UWU
+  originalPhrases: {fileID: 11400000}
