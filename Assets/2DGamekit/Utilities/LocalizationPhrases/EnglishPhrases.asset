@@ -24,3 +24,5 @@ MonoBehaviour:
     value: Ca Calcio +1
   - key: INFOPOST5
     value: NA Sodio +1
+  - key: INFOPOST6
+    value: '"Usa O para disparar"'
