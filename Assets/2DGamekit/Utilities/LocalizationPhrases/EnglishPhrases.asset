@@ -25,4 +25,12 @@ MonoBehaviour:
   - key: INFOPOST5
     value: NA Sodio +1
   - key: INFOPOST6
+    value: '"Usa la letra K para romper el muro"'
+  - key: INFOPOST7
+    value: '"sigue a la derecha para ir a la siguiente parte"'
+  - key: INFOPOST8
+    value: '"Usa la letra O para disparar"'
+  - key: INFOPOST9
+    value: '"Usa O para disparar"'
+  - key: INFOPOST10
     value: '"Usa O para disparar"'
