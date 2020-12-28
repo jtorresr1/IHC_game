@@ -19,8 +19,7 @@ MonoBehaviour:
   - key: INFOPOST2
     value: '"Para descender pulsa S y espacio"'
   - key: INFOPOST3
-    value: '"Para atacar cuerpo a acuerpo pulsa K y para atacar a distancia pulsa
-      O"'
+    value: '"Ataque a cercano/distancia -> K/O"'
   - key: INFOPOST3
     value: UWU
   originalPhrases: {fileID: 11400000}
