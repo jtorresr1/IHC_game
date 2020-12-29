@@ -12,7 +12,7 @@ public class Forjado_To2 : MonoBehaviour
     }
 
     // Update is called once per frame
-    public void cambiar__escena()
+    public void cambiarescena()
     {
         SceneManager.LoadScene("ForjadoR2");
     }

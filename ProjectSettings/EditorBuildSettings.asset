@@ -56,6 +56,12 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/UI/Forjado.unity
+    guid: 5dbfd311a112d7a4aa4ec1ea683b2f8b
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/UI/ForjadoR2.unity
+    guid: b1b45f44d784fc64491bb5658ce4f96f
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
