@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-public class combinacion : MonoBehaviour
+public class retro : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -13,6 +13,6 @@ public class combinacion : MonoBehaviour
     // Update is called once per frame
     public void cambiarescena()
     {
-        SceneManager.LoadScene("Combinacion-R");
+        SceneManager.LoadScene("UIMenus");
     }
 }
