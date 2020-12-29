@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/2DGamekit/Scenes/Zone2.unity
+=======
+- path: Assets/2DGamekit/Scenes/Start.unity
+>>>>>>> 4ef9431bfc5ae442d7d780637fabdb2027ddfd25
   isLoaded: 1
   isActive: 1
   isSubScene: 0
