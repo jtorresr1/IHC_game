@@ -31,6 +31,6 @@ MonoBehaviour:
   - key: INFOPOST8
     value: '"Usa la letra O para disparar"'
   - key: INFOPOST9
-    value: '"Usa O para disparar"'
+    value: '"Presione la letra i para entrar al inventario y combinaciones"'
   - key: INFOPOST10
     value: '"Usa O para disparar"'
