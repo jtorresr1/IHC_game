@@ -13,6 +13,6 @@ public class combinacion : MonoBehaviour
     // Update is called once per frame
     public void cambiarescena()
     {
-        SceneManager.LoadScene("Start");
+        SceneManager.LoadScene("Combinacion-R");
     }
 }
