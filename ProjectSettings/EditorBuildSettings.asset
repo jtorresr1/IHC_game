@@ -44,6 +44,12 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/UI/inventario.unity
+    guid: 84fdf744ec8970246a3e25c2956435b8
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/UI/Combinacion-R2.unity
+    guid: 6f4e2f0e1fa4a0047a75a11dc553affd
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
