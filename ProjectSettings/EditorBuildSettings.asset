@@ -47,7 +47,10 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/UI/Combinacion-R.unity
+    guid: b5a66abfb20963345837e1123e16589f
   m_configObjects: {}
