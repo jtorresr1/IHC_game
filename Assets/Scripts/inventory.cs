@@ -20,9 +20,9 @@ public class inventory : MonoBehaviour
         allSlots = slotHolder.transform.childCount;
         slot = new GameObject[allSlots];
 
-        for (int i = 0; i < allSlots; i++)
+        for (int j = 0; j < allSlots; j++)
         {
-            slot[i]=slotHolder.transform.GetChild(i).gameObject;
+            slot[j]=slotHolder.transform.GetChild(j).gameObject;
         }
 
     }
